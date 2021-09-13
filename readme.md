@@ -1,0 +1,1 @@
+This is a packer of Guestbook AMI from the project https://github.com/vincenttjia/cloudform-guestbook
